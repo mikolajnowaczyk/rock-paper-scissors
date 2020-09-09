@@ -1,4 +1,4 @@
-# Drug Panel app
+# Rock paper scissors game
 
 Simple app created with vanilla JavaScript, html and css.
 
