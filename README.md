@@ -11,7 +11,7 @@ Simple app created with vanilla JavaScript, html and css.
 
 ### Introduction
 
-This project was created for learning JS.
+This project was created for learning JS. Desing and images comes from [Frontend Mentor](https://www.frontendmentor.io).
 
 ### Technologies
 
